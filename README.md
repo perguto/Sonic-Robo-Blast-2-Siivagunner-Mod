@@ -25,8 +25,8 @@ These are the Siivagunner tracks replacing the respective stage music. If there 
     - Race Against Metal Sonic
     - Red Volcano Zone, Act 1
     - Red Volcano Zone, Act 2
-    Techno Hill Zone, Act 2
-    Vs. Dr. Eggman
+    - Techno Hill Zone, Act 2
+    - Vs. Dr. Eggman
 
 [`siiva_music2.2.wad`](https://www.youtube.com/playlist?list=PLL0CQjrcN8D3C4GJ60hkWDaoe6juYBysR):
 
