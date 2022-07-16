@@ -14,7 +14,8 @@ This mod replaces several tracks from Sonic Robo Blast 2 with their respective S
 ### Replaced Songs
 These are the Siivagunner tracks replacing the respective stage music. If there are multiple rips, the second one will start when the first one has finished.
 
-[`siiva_music.wad`](https://www.youtube.com/playlist?list=PLL0CQjrcN8D3C4GJ60hkWDaoe6juYBysR):
+[`siiva_music.wad`](https://www.youtube.com/playlist?list=PLL0CQjrcN8D3J175HprihA47qwvcN46uD):
+
     - Arid Canyon Zone, Act 1 (v2.2.8)
     - Arid Canyon Zone, Act 1
     - Egg Rock Zone, Act 2 (Beta Mix)
@@ -27,7 +28,8 @@ These are the Siivagunner tracks replacing the respective stage music. If there 
     Techno Hill Zone, Act 2
     Vs. Dr. Eggman
 
-`siiva_music2.2.wad`:
+[`siiva_music2.2.wad`](https://www.youtube.com/playlist?list=PLL0CQjrcN8D3C4GJ60hkWDaoe6juYBysR):
+
     - Boss Theme (v2.0 Release)
     - Deep Sea Zone Act 1 (v2.0 Release)
     - Greenflower Zone Act 1 (v1.0 Release)
