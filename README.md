@@ -1,6 +1,6 @@
-# Sonic-Robo-Blast-2-Siivagunner-Mod
+# Sonic Robo Blast 2 SiIvagunner Mod
 
-This mod replaces several tracks from Sonic Robo Blast 2 with their respective Siivagunner parodies. 
+This mod replaces several tracks from Sonic Robo Blast 2 with their respective SiIvagunner parodies. 
 
 ## Installation/Usage
 
@@ -12,7 +12,7 @@ This mod replaces several tracks from Sonic Robo Blast 2 with their respective S
 `siiva_music.wad` contains rips based on the SRB2.2 version of the soundtrack, `siiva_music_2.0.wad` rips based on the SRB2.0 version. As they almost don't overlap, just load both!
 
 ### Replaced Songs
-These are the Siivagunner tracks replacing the respective stage music. If there are multiple rips, the second one will start when the first one has finished.
+These are the SiIvagunner tracks replacing the respective stage music. If there are multiple rips, the second one will start when the first one has finished.
 
 [`siiva_music.wad`](https://www.youtube.com/playlist?list=PLL0CQjrcN8D3J175HprihA47qwvcN46uD):
 
