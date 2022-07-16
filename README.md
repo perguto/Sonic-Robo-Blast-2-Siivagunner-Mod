@@ -14,7 +14,7 @@ This mod replaces several tracks from Sonic Robo Blast 2 with their respective S
 ### Replaced Songs
 These are the Siivagunner tracks replacing the respective stage music. If there are multiple rips, the second one will start when the first one has finished.
 
-`siiva_music.wad`:
+[`siiva_music.wad`](https://www.youtube.com/playlist?list=PLL0CQjrcN8D3C4GJ60hkWDaoe6juYBysR):
     Arid Canyon Zone, Act 1 (v2.2.8)
     Arid Canyon Zone, Act 1
     Egg Rock Zone, Act 2 (Beta Mix)
