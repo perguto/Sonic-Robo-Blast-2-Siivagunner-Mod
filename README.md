@@ -28,7 +28,7 @@ These are the SiIvagunner tracks replacing the respective stage music. If there 
     - Techno Hill Zone, Act 2
     - Vs. Dr. Eggman
 
-[`siiva_music2.2.wad`](https://www.youtube.com/playlist?list=PLL0CQjrcN8D3C4GJ60hkWDaoe6juYBysR):
+[`siiva_music_2.0.wad`](https://www.youtube.com/playlist?list=PLL0CQjrcN8D3C4GJ60hkWDaoe6juYBysR):
 
     - Boss Theme (v2.0 Release)
     - Deep Sea Zone Act 1 (v2.0 Release)
